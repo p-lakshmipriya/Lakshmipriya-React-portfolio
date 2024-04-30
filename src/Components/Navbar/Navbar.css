@@ -13,7 +13,6 @@ nav {
 }
 .logo {
   width: 70px;
-  border-radius: 50px;
 }
 nav ul li {
   display: inline-block;
@@ -34,8 +33,6 @@ nav ul li {
 @media (max-width: 1000px) {
   .logo {
     width: 70px;
-    border-top-right-radius: 30px;
-    border-top-left-radius: 30px;
   }
   nav ul li {
     margin: 10px 15px;

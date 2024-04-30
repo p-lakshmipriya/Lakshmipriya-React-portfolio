@@ -1,15 +1,15 @@
 import React from "react";
 import "./About.css";
-import about_img from "../../assets/about.png";
+// import about_img from "../../assets/photo.jpeg";
 // import play_icon from "../../assets/play-icon.png";
 
 const About = () => {
   return (
     <div className="about" id="about">
-      <div className="about-left">
-        <img src={about_img} alt="" className="about-img" />
-        {/* <img src={play_icon} alt="" className="play-icon" /> */}
-      </div>
+      {/* <div className="about-left">
+        <img src="#" alt="" className="about-img" /> */}
+      {/* <img src={play_icon} alt="" className="play-icon" />
+      </div> */}
       <div className="about-right">
         <h3>About Me</h3>
         <h2>Full Stack Web Developer</h2>

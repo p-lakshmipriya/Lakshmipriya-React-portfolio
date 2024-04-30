@@ -12,6 +12,7 @@
 .gallery img {
   width: 70%;
   border-radius: 10px;
+  border: 1px solid rgb(84, 84, 248);
 }
 /* media query */
 @media (max-width: 800px) {
