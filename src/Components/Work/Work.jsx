@@ -11,7 +11,7 @@ const Work = () => {
         <a href="https://p-lakshmipriya.github.io/Heliography-Studio/">
           <img src={helio_img} alt="" />
         </a>
-        <a href="#">
+        <a href=" https://p-lakshmipriya.github.io/Lakshmi-priya-Portfolio/">
           <img src={portfolio_img} alt="" />
         </a>
         {/* <a href="#">
